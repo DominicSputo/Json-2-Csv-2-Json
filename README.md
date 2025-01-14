@@ -8,3 +8,6 @@ Donate https://www.patreon.com/OrganicProgrammer
 
 C# JSON To CSV To JSON
 [![Watch the video](https://img.youtube.com/vi/TQ4eofOGdHw/maxresdefault.jpg)](https://youtu.be/TQ4eofOGdHw)
+
+How to use C#.NET or VB.NET CsvDatabase DLL
+[![Watch the video](https://img.youtube.com/vi/F87Nmi4zGC8/maxresdefault.jpg)](https://youtu.be/F87Nmi4zGC8)
